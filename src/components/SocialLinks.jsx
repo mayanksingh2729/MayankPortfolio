@@ -8,14 +8,14 @@ export default function SocialLinks() {
     {
       name: "Instagram",
       img: insta,
-      url: "https://www.instagram.com/mayanknegi.27?igsh=MTdtMm9rOHE5NDF2bw==",
+      url: "https://instagram.com/mayanknegi.27?igsh=MTdtMm9rOHE5NDF2bw==",
       color: "hover:text-pink-400",
       glow: "hover:shadow-[0_0_20px_rgba(236,72,153,0.6)]",
     },
     {
       name: "LinkedIn",
       img: linkedin,
-      url: "www.linkedin.com/in/mayank-negi-bb50a427a",
+      url: "https://linkedin.com/in/mayank-negi-bb50a427a",
       color: "hover:text-blue-400",
       glow: "hover:shadow-[0_0_20px_rgba(59,130,246,0.6)]",
     },

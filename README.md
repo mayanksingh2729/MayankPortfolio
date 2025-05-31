@@ -4,14 +4,13 @@ Welcome to my **personal portfolio website** built with **React.js** and **Tailw
 
 ## 🔗 Live Website
 
-[Visit Portfolio](https://blood-connect27.netlify.app/) 🚀
+[Visit Portfolio](https://mayankportfolio27.netlify.app/) 🚀
 
 ---
 
 ## 📸 Preview
 
-![Portfolio Preview](/src/assets/Project4.png) <!-- Add a real screenshot file with this name -->
-
+![Portfolio Preview](/src/assets/Project4.png)
 ---
 
 ## 🛠️ Tech Stack
@@ -63,28 +62,11 @@ Open [http://localhost:5173](http://localhost:5173) to view it in your browser.
 
 ---
 
-## 📦 Build for Production
-
-```bash
-npm run build
-```
-
-Then deploy the contents of the `dist` folder to any static host (e.g., Netlify, Vercel, GitHub Pages).
-
----
-
-## 🙌 Contributing
-
-Have ideas or want to suggest improvements?  
-Feel free to fork the repo and open a pull request!
-
----
-
 ## 📧 Contact Me
 
 - **Email:** mayanksingh2729@gmail.com  
 - **GitHub:** [@mayanksingh2729](https://github.com/mayanksingh2729)  
-- **LinkedIn:** [Mayank Negi](www.linkedin.com/in/mayank-negi-bb50a427a)
+- **LinkedIn:** [Mayank Negi](https://linkedin.com/in/mayank-negi-bb50a427a)
 
 ---
 
