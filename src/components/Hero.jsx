@@ -39,9 +39,9 @@ export default function Hero() {
                   View My Work
                 </button>
                 <button
-                  onClick={scrollToContact}
-                  className="px-8 py-3 border border-white/30 text-white rounded-full hover:bg-white/10 transition-all duration-300 text-base"
-                >
+                  onClick={() => { window.open("https://wa.me/918755743400?text=Hi%20Mayank%2C%20I%20came%20across%20your%20portfolio%20and%20would%20like%20to%20discuss%20a%20project.","_blank");}}
+                  className="flex items-center gap-2 px-8 py-3 border border-white/30 text-white rounded-full hover:bg-white/10 transition-all duration-300 text-base">
+                  <img src="https://img.icons8.com/?size=100&id=16713&format=png&color=ffffff" alt="WhatsApp" className="w-7 h-7"/>
                   Contact Me
                 </button>
               </div>
